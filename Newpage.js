@@ -35,20 +35,7 @@ function Newpage() {
         }
 
     }
-    // const handalClick = () => {
-    //     //http://api.weatherapi.com/v1//current?key='64695d8b4857453da7b145746241307'&q='Ahmedabad'
-    //     let apikey = `64695d8b4857453da7b145746241307`
-    //     axios.get(`http://api.weatherapi.com/v1/current.json?key=${apikey}&q=${name}&aqi=no`)
-    //         .then((res) => {
-    //             console.log(res.data)
-    //             setData(res.data)
-    //         })
-    //         .catch((err) => {
-    //             console.log(err)
-    //         }, )
-
-    // }
-    return (
+       return (
         <div >
 
             <div id="firstdiv">
